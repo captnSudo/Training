@@ -17,8 +17,10 @@
 
 # How to get 
 
+Directed versus un-directed
+
 - University/College
 - Online Courses
 - Certifications
 - Gameified learning
-
+- home labs
