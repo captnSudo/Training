@@ -1,0 +1,2 @@
+# Training
+Ars et Scientia
