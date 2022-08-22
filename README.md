@@ -1,6 +1,5 @@
 # Ars et Scientia
-Never understimate any knowledge. Frown upon people that see it as a dichotomy between theoretical and practical (keyboard monkeys). 
-Need to understand the big picture.
+Never understimate any knowledge. Frown upon people that see it as a dichotomy between theoretical and practical (keyboard monkeys). The reality is that it is both and you need to understand the big picture as much as the details.
 
 Sense of nobility for your field and profession. Distinguish humans(know) versus other animals(do).
 
