@@ -10,6 +10,7 @@ knowledge + experience
 
 being able to answer all: what, how, why, 
 
+Don't look at it like 1 element at a time /// look at it as a whole.
 
 # How to?
 A KEYBOARD MONKEY do stuff by imitation but dont understand the underlying. (copy-paste from Google)
