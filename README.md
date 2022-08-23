@@ -28,5 +28,8 @@ Directed versus un-directed
 - University/College
 - Online Courses
 - Certifications
-- Gameified learning
+- Gameified learning (TryHackMe, HackTheBox, something-hack-gamified-with-a-teenager-look)
 - home labs
+- Reading RFCs
+
+
