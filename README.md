@@ -7,6 +7,8 @@ Be complete and do not let an avenue untouched (business process for example or 
 
 For example: pentester is **Quality Assurance** Specialized in security for architects, developpers, sysadmins, database administrators, etc. It may be overglorified and romanticized, but for the business ... it's what it does. And it does it after 17 others security controls that already block 90-99% of possible vulnerabilities.
 
+You should know sysadmin if you pentest systems/networks and you should know development if you pentest web applications.
+
 # What you need
 
 - Theoretical
