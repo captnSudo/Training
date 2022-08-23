@@ -4,7 +4,7 @@
 
 ## Complete Process rather than individual components
 
-Which cert. is better than the other? Practice or Theory .... I'd say stop whinning, stop trying to do the minimum. Do them all, practical and theoretical certifications. There are no real ''junk'', they all have different viewpoints to bring.
+Which cert. is better than the other? Practice or Theory .... I'd say **stop whining**, stop trying to do the minimum. Do them all, practical and theoretical certifications. There are no real ''junk'', they all have different viewpoints to bring.
 
 Be complete and do not let an avenue untouched (business process for example or place of your cybersecurity job in the enterprise).
 
