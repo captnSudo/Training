@@ -1,6 +1,6 @@
 # Introduction
 
-## Keyboard Monkey vs Expertise
+## Keyboard Monkey vs Mastery
 
 ## Complete Process rather than individual components
 
