@@ -2,7 +2,7 @@
 
 ## Keyboard Monkey vs Mastery
 
-It is false that only practical training count.
+It is false that only practical training count as expertise as been demonstrated to be a combination of theoretical and practical knowledge/experience. 
 
 # REVIEWS
 
@@ -10,27 +10,28 @@ It is false that only practical training count.
   - eJPT
   - eCPPT
   - eWPT
+  - eCPTX
   - PNTP
   - OSCP
+  - OSWA
+  - OSCE
   
 - Theoretical
   - Security+
   - Pentest+
   - CySA+
+  - CASP
   - MITRE ATT&CK
   - CISSP
   - CISA
   - CISM
+  - CEH
 
 ## Complete Process rather than individual components
 
-Don't look at it one by one, individually. Look at the sum of whats learned and you'll see strengths/weakness in each one.
+Don't look at it individually, one by one. Look at the sum of whats learned and you'll see strengths/weakness in each one.
 
-Which cert. is better than the other? Practice or Theory .... I'd say **stop whining**, stop trying to do the minimum. Do them all, practical and theoretical certifications. There are no real ''junk'', they all bring different viewpoints.
-
-For example: pentester is **Quality Assurance** specialized in security for architects, developpers, sysadmins, database administrators, etc. It may be overglorified and romanticized, but for the business ... it's what it does. And it does it after 17 others security controls that already block 90-99% of possible vulnerabilities.
-
-It is better to know sysadmin if you pentest systems/networks and development if you pentest web applications.
+It is better to know sysadmin if you pentest systems/networks and web development if you pentest web applications.
 
 # What you need
 
@@ -52,5 +53,5 @@ Directed versus un-directed
 - Online Courses
 - Certifications
 - Gameified learning (TryHackMe, HackTheBox, something-hack-gamified-with-a-teenager-look)
-- home labs
+- Home labs
 - Reading RFCs
