@@ -6,26 +6,16 @@ It is false that only practical training count as expertise as been demonstrated
 
 # REVIEWS
 
-- Practical
-  - eJPT
-  - eCPPT
-  - eWPT
-  - eCPTX
-  - PNTP
-  - OSCP
-  - OSWA
-  - OSCE
-  
-- Theoretical
-  - Security+
-  - Pentest+
-  - CySA+
-  - CASP
-  - MITRE ATT&CK
-  - CISSP
-  - CISA
-  - CISM
-  - CEH
+| Practical | Theoretical |
+| --------- | ----------- |
+| eJPT | Security+ & CEH |
+| eCPPT | Pentest+ |
+| eWPT | CySA+ |
+| eCPTX | CASP |
+| PNTP | MITRE ATT&CK |
+| OSCP | CISA |
+| OSWA | CISM |
+| OSCE | CISSP |
 
 ## Complete Process rather than individual components
 
